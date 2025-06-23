@@ -1,5 +1,5 @@
 // app/dashboard/page.js (Manager Dashboard)
-import Table from '../../components/Table'
+import Table from '../components/Table'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 
 const artistData = [
