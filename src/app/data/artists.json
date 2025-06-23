@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Arjit Singh", "category": "Singers", "location": "Mumbai", "price": "₹50k - ₹1L", "image": "alice.jpg" },
+  { "id": 2, "name": "Raj Shukla", "category": "Dancers", "location": "Delhi", "price": "₹30k - ₹80k", "image": "raj.jpg" },
+  { "id": 3, "name": "Sara Deol", "category": "Speakers", "location": "Bangalore", "price": "₹20k - ₹50k", "image": "laila.jpg" }
+]
