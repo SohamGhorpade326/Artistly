@@ -1,4 +1,5 @@
-import Table from '../components/Table'
+// app/dashboard/page.js (Manager Dashboard)
+import Table from '../../components/Table'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 
 const artistData = [
@@ -9,7 +10,7 @@ const artistData = [
 
 export default function Dashboard() {
   return (
-    <div className="min-h-screen bg-green-50 p-4 flex justify-center">
+    <div className="min-h-screen bg-green-50 dark:bg-gray-900 text-black dark:text-white p-4 flex justify-center">
       <div className="max-w-6xl w-full space-y-4">
         <Card>
           <CardHeader>

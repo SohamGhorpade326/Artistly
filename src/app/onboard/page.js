@@ -1,4 +1,4 @@
-// Onboarding Page (app/onboard/page.js)
+// app/onboard/page.js (Onboarding Form)
 'use client'
 import { useState } from 'react'
 import { useForm, Controller } from 'react-hook-form'
@@ -35,7 +35,7 @@ export default function Onboard() {
   }
 
   return (
-    <div className="min-h-screen bg-blue-50 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-blue-50 dark:bg-gray-900 text-black dark:text-white flex items-center justify-center p-4">
       <div className="max-w-xl w-full space-y-6">
         <Card>
           <CardHeader>
